@@ -5,4 +5,4 @@ A tool to find the respective interpro and pfam IDs of proteomes based on genome
 
 - The uniparc_famdom.py script seeks in the non-redundant database UniParc 
 - The uniprotkb_famdom.py script seeks in the database UniProtKB 
-- The uniprot_family_and_domains.py script seeks in both Databases
+- The uniprot_family_and_domains.py script seeks in both databases
