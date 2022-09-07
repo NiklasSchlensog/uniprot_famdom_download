@@ -1,7 +1,6 @@
 ### uniprot_famdom_download
 
 A tool to find the respective interpro and pfam IDs of proteomes based on genome assembly and annotation IDs using UniProt database. 
-
 The results are returned in a .tsv file 
 
 - The uniparc_famdom.py script seeks in the non-redundant database UniParc 
